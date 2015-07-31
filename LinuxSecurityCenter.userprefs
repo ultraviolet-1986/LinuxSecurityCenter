@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinuxSecurityCenter/antivirusMethods.cs">
+    <Files>
+      <File FileName="LinuxSecurityCenter/frmMain.cs" Line="701" Column="16" />
+      <File FileName="LinuxSecurityCenter/deletionMethods.cs" Line="141" Column="16" />
+      <File FileName="LinuxSecurityCenter/updateMethods.cs" Line="77" Column="16" />
+      <File FileName="LinuxSecurityCenter/firewallMethods.cs" Line="80" Column="16" />
+      <File FileName="LinuxSecurityCenter/antivirusMethods.cs" Line="153" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

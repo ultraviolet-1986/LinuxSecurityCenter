@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinuxSecurityCenter", "LinuxSecurityCenter.csproj", "{3A40BCF0-6159-4596-89AC-F03C81D9FC14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A40BCF0-6159-4596-89AC-F03C81D9FC14}.Debug|x86.ActiveCfg = Debug|x86
+		{3A40BCF0-6159-4596-89AC-F03C81D9FC14}.Debug|x86.Build.0 = Debug|x86
+		{3A40BCF0-6159-4596-89AC-F03C81D9FC14}.Release|x86.ActiveCfg = Release|x86
+		{3A40BCF0-6159-4596-89AC-F03C81D9FC14}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = LinuxSecurityCenter.csproj
+	EndGlobalSection
+EndGlobal
