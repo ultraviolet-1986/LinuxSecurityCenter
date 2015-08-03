@@ -1,0 +1,6 @@
+/home/william/Workspace/GitHub/LinuxSecurityCenter/LinuxSecurityCenter/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/william/Workspace/GitHub/LinuxSecurityCenter/LinuxSecurityCenter/obj/x86/Debug/LinuxSecurityCenter.gtk-gui.gui.stetic
+/home/william/Workspace/GitHub/LinuxSecurityCenter/LinuxSecurityCenter/bin/Debug/LinuxSecurityCenter.exe.mdb
+/home/william/Workspace/GitHub/LinuxSecurityCenter/LinuxSecurityCenter/bin/Debug/LinuxSecurityCenter.exe
+/home/william/Workspace/GitHub/LinuxSecurityCenter/LinuxSecurityCenter/obj/x86/Debug/LinuxSecurityCenter.exe
+/home/william/Workspace/GitHub/LinuxSecurityCenter/LinuxSecurityCenter/obj/x86/Debug/LinuxSecurityCenter.exe.mdb
