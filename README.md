@@ -3,7 +3,9 @@ An application which can manage basic system security of Ubuntu / Linux Mint.
 
 *This is my dissertation project, it represents a work in progress and is not fit for use in a production environment at this time.*
 
-**Build Environment:** Linux Mint 17.2 KDE amd64, MonoDevelop 5.9.5
+**Original Build Environment:** Linux Mint 13 Cinnamon amd64, MonoDevelop 2.8.6.3
+
+**Current Build Environment:** Linux Mint 17.2 KDE amd64, MonoDevelop 5.9.5
 
 **Notes:**
 - Will currently function only on a GNOME-based desktop unless modified.
