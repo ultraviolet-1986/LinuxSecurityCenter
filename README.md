@@ -1,6 +1,7 @@
 # LinuxSecurityCenter
+An application which can manage basic system security of Ubuntu / Linux Mint.
 
-**Build Environment:** Linux Mint Debian 2 (i586) Virtual Machine, MonoDevelop 5.9.4
+**Build Environment:** Linux Mint 17.2 KDE amd64, MonoDevelop 5.9.5
 
 **Notes:**
 - Will currently function only on a GNOME-based desktop unless modified.
